@@ -1,5 +1,7 @@
 ## Hi there 👋, I am [Leonardo Rivero](https://codingleonardo.github.io)
 
+![Portada](https://user-images.githubusercontent.com/45718658/88820529-69932180-d18f-11ea-8ba6-a565cb4c423c.jpg)
+
 <p align="center">
   <a href="https://twitter.com/CodingLeonardo" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="CodingLeonardo Twitter" height="28px" width="28px" />
