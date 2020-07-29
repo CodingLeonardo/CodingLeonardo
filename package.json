@@ -4,7 +4,7 @@
   "description": "CodingLeonardo README GitHub profile",
   "main": "index.js",
   "scripts": {
-    "update-readme": "",
+    "update-readme": "node src/index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
