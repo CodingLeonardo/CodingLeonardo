@@ -1,6 +1,6 @@
 ## Hi there 👋, I am [Leonardo Rivero](https://codingleonardo.github.io)
 
-![Portada](https://user-images.githubusercontent.com/45718658/88820529-69932180-d18f-11ea-8ba6-a565cb4c423c.jpg)
+![Portada](https://user-images.githubusercontent.com/45718658/91781821-4b26a880-ebc9-11ea-8891-87b23c915a1e.png)
 
 <p align="center">
   <a href="https://twitter.com/CodingLeonardo" target="blank">
