@@ -16,7 +16,7 @@
 
 <br />
 
-I am 14 years old 👦🏻, I am a frontend developer 🚀, I am passionate about frontend development, I love to explore new technologies 💡. I like to solve problems and use my applications to solve real life problems ✨. I always find myself learning something new 💚.
+I am a developer from Venezuela 🇻🇪, I am passionate about frontend development 🚀, I like to be constantly exploring and learning new web technologies 💡. And I like to use my knowledge to help people solve their problems when possible 💚.
 
 ### More about me...
 
