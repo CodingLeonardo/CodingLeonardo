@@ -32,6 +32,6 @@ I am a developer from Venezuela 🇻🇪, I am passionate about frontend develop
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=codingleonardo&show_icons=true&hide_border=true)
 
-### 📝 Latest article I wrote on [medium.com](https://medium.com/@CodingLeonardo): [Crea tu primer proyecto con Svelte](https://medium.com/@CodingLeonardo/crea-tu-primer-proyecto-con-svelte-45aceae20c06?source=rss-5fbf7bb76a24------2)
+### 📝 Latest article I wrote on [medium.com](https://medium.com/@CodingLeonardo): [4 Razones para usar Linux Arch](https://medium.com/@CodingLeonardo/4-razones-para-usar-linux-arch-be182bc65de4?source=rss-5fbf7bb76a24------2)
 
 ⭐️ From [CodingLeonardo](https://github.com/CodingLeonardo)
