@@ -20,9 +20,9 @@ I am a developer from Venezuela 🇻🇪, I am passionate about frontend develop
 
 ### More about me...
 
-- 🔭 I’m currently working on Node.js, Express.js, React, Svelte, MongoDB, etc 💻.
-- 🌱 I’m currently learning Full Stack Development 🚀.
-- 👯 I’m looking to collaborate on any Open Source Project involving Javascript / MERN Stack.
+- 🔭 I’m currently working on Typescript, React, TailwindCSS, Express, NextJs, etc 💻.
+- 🌱 I am currently learning full stack development and artificial intelligence. 🤖🚀.
+- 👯 I’m looking to collaborate on any Open Source Project involving Javascript and Python.
 - 📫 How to reach me: codingleonardo@gmail.com.
 - 💻 I have worked on Python, HTML/CSS, Javascript, React, Svelte, Nodejs, Expressjs, MySQL, MongoDB, Git, etc.
 - 💬 Ask me about anything! I am happy to help and guide you.
